@@ -4,7 +4,7 @@
   * a `name` property, which can be accepted as an argument of the constructor function and set on the object
   * and a `songs` property that defaults to an empty array
 
-* Create a constructor function called `Song`.  The `Artist` constructor function should have 3 properties:
+* Create a constructor function called `Song`.  The `Song` constructor function should have 3 properties:
   * a `title` property, which can be accepted as an argument of the constructor function and set on the object
     * the `title` should be a string containing the title of a song
   * an `artist` property, which can be accepted as an argument of the constructor function and set on the object
