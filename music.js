@@ -5,7 +5,7 @@ function Artist() {
 }
 
 // Define the Song constructor function here, with 'title' and 'artist' properties that can be set at instantiation,
-// and a 'playCount' property that is an empty array to start
+// and a 'playCount' property that is set to 0
 function Song() {
 
   // When a new song is instantiated, you'll want to add that song to its artist's 'songs' array.
