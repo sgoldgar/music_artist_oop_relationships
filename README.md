@@ -1,4 +1,4 @@
-# Playlist!
+# OOPlaylist
 
 * Create a constructor function called `Artist`. The `Artist` constructor function should have 2 properties:
   * a `name` property, which can be accepted as an argument of the constructor function and set on the object
